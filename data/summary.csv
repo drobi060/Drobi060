@@ -1,0 +1,10 @@
+metric,value,units
+count,243,items
+sum,17627.00,°C
+mean,72.5391,°C
+median,73.00,°C
+min,50.00,°C
+max,87.00,°C
+population_stdev,9.7859,°C
+sum_f,39504.60,°F
+mean_f,162.5704,°F
