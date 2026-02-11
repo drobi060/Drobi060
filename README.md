@@ -79,3 +79,8 @@ Suggestions / Next steps
 If you'd like, I can: save the attached parsing script into `scripts/parse_temps.py`,
 add a `requirements.txt`, or create a plotting notebook — tell me which and I'll
 do it next.
+
+---
+**PR note:** Added a small README update to trigger a pull request.
+Timestamp: 2026-02-11 UTC
+
